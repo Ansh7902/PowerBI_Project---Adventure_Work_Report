@@ -8,7 +8,7 @@ Interactive Business Insights with Power BI – AdventureWorks Case Study
  
 ## 2. Short Description
 
-This dashboard provides a comprehensive view of AdventureWorks' sales performance, customer behavior, and product trends.
+This dashboard provides a comprehensive view of AdventureWorks'(A Fictional Company) sales performance, customer behavior, and product trends.
 It enables stakeholders to monitor KPIs, identify high-performing segments, and uncover growth opportunities.
 The goal is to support data-driven decision-making through interactive and visually intuitive insights.
 
