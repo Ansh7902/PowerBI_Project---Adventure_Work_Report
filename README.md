@@ -2,7 +2,8 @@
 
 # Recommended Structure and Order
 
-**1. Project Title / Headline**
+**1. Project Headline**
+
 AdventureWorks Report: AdventureWorks Dashboard - A dynamic, interactive data visualization tool built to **track KPIs**(Sales, Revenue, Profit , Returns), **compare regional performance, analyze product-level trends,** and **identify high-value customers.**
 
 2. Short Description / Purpose
