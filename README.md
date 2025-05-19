@@ -61,39 +61,32 @@ To build an interactive, insightful, and business-ready dashboard that:
 
 ### • Walkthrough of Key Visuals
 
-**Key KPIs (Top Panel):**  
-- Total Sales  
-- Total Orders  
-- Average Revenue per Customer  
-- Top-Selling Product  
+**Exec Dashboard:**  
+This tab is designed for high-level executives focused on macro-level metrics such as total sales, revenue, and profit. It provides a consolidated overview of the company’s financial health and business performance, enabling quick strategic decision-making. Key KPIs and trends are visually summarized for at-a-glance insights.
 
-**Customer Segmentation Panel:**  
-- Customer count by income category and education level  
-- Priority vs. standard customers  
-- Geographic distribution of customers  
 
-**Sales Performance Over Time (Line Chart):**  
-- Monthly sales trend to evaluate seasonality and business cycles  
+**Map:**  
+This tab offers a geographic perspective on business performance. It helps users analyze regional sales distribution, market penetration, and customer density across different locations.
 
-**Revenue by Product Category (Bar Chart):**  
-- Highlights the best-performing product categories  
 
-**Sales by Region (Map or Bar Chart):**  
-- Allows users to understand regional performance and market penetration  
+**Product Details Tab:**  
+This dashboard provides detailed performance analysis of individual products. Users can track monthly orders, returns, return rates, and profit margins. It also allows drilling down from the Executive Dashboard to specific products for granular insights, helping identify bestsellers, underperforming items, and product lifecycle trends.
 
-**Order Volume vs. Revenue Comparison (Dual Axis Chart):**  
-- Compares quantity sold vs. revenue generated to assess pricing and volume strategy  
+
+**Customer Detail:**  
+This section is dedicated to understanding our customer base in depth. It highlights key customer segments that generate the most revenue, including their purchasing frequency, income levels, and occupations. This insight supports targeted marketing campaigns and personalized customer engagement strategies.
 
 
 ### • Business Impact & Insights
 
-📊 **Revenue Insights:** Identifies top-performing products and categories to inform inventory and production planning.  
-👤 **Customer Analysis:** Enables targeted marketing by segmenting customers based on income, children, and education.  
-🌍 **Market Strategy:** Reveals strong and weak-performing regions for geo-targeted campaigns.  
-📈 **Sales Optimization:** Helps teams analyze trends, improve forecast accuracy, and set achievable sales targets.  
-🎯 **Decision Support:** Empowers stakeholders with real-time, visual insights to drive informed strategic decisions.
+- 📊 **Revenue Insights:** Identifies top-performing products and categories to inform inventory and production planning.  
+- 👤 **Customer Analysis:** Enables targeted marketing by segmenting customers based on income, children, and education.  
+- 🌍 **Market Strategy:** Reveals strong and weak-performing regions for geo-targeted campaigns.  
+- 📈 **Sales Optimization:** Helps teams analyze trends, improve forecast accuracy, and set achievable sales targets.  
+- 🎯 **Decision Support:** Powers stakeholders with real-time, visual insights to drive informed strategic decisions.
 
 
 
 ## 6. Screenshots / Demos
-Show what the dashboard looks like. - Alt text Example:
+Show what the dashboard looks like. Example:
+![AdventureWork Report Screenshot](https://github.com/user-attachments/assets/737e83f4-f665-4cf8-be9f-dc23d1808f00)
