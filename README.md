@@ -88,5 +88,5 @@ This section is dedicated to understanding our customer base in depth. It highli
 
 
 ## 6. Screenshots / Demos
-Show what the dashboard looks like. Example:
+Example:
 ![AdventureWork Report Screenshot](https://github.com/user-attachments/assets/737e83f4-f665-4cf8-be9f-dc23d1808f00)
